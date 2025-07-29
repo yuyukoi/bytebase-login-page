@@ -17,9 +17,9 @@ const Header = () => {
   };
 
   // 打开侧边栏（用于小屏幕）
-  const handleDrawerOpen = () => {
-    setDrawerOpen(true);
-  };
+//   const handleDrawerOpen = () => {
+//     setDrawerOpen(true);
+//   };
 
   // 关闭侧边栏
   const handleDrawerClose = () => {
