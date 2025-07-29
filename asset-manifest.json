@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bytebase-login-page/static/js/main.9456696e.js",
+    "index.html": "/bytebase-login-page/index.html",
+    "main.9456696e.js.map": "/bytebase-login-page/static/js/main.9456696e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9456696e.js"
+  ]
+}
